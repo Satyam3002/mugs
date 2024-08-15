@@ -26,9 +26,9 @@ export default function Projects({ textColor = 'text-white', textColor1 = 'text-
                     </div>
                 </div>
 
-                <div className="flex flex-col lg:flex-row gap-y-4 lg:gap-x-6 w-full lg:w-auto">
+                <div className="flex flex-col lg:flex-row gap-y-10 lg:gap-x-6 w-full lg:w-auto">
                     {/* Project 1 */}
-                    <div className="flex flex-col items-center gap-y-6 font-normal">
+                    <div className="flex flex-col items-center gap-y-2 font-normal">
                         <div className="relative w-[450px] h-[490px]">
                             <img
                                 src="/temp1.png"
@@ -41,7 +41,7 @@ export default function Projects({ textColor = 'text-white', textColor1 = 'text-
                     </div>
 
                     {/* Project 2 */}
-                    <div className="flex flex-col items-center gap-y-6 font-normal">
+                    <div className="flex flex-col items-center gap-y-2 font-normal">
                         <div className="relative w-[450px] h-[490px]">
                             <img
                                 src="/temp2.png"
@@ -64,7 +64,7 @@ export default function Projects({ textColor = 'text-white', textColor1 = 'text-
                     </div>
 
                     {/* Project 3 */}
-                    <div className="flex flex-col items-center gap-y-6 font-normal">
+                    <div className="flex flex-col items-center gap-y-2 font-normal">
                         <div className="relative w-[450px] h-[490px]">
                             <img
                                 src="/temp3.png"
