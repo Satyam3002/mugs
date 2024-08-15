@@ -2,7 +2,7 @@
 
 import React, { useState } from 'react';
 
-export default function Testimonials() {
+export default function Test() {
  
     const [selectedTestimonial, setSelectedTestimonial] = useState(0);
 
@@ -38,8 +38,8 @@ export default function Testimonials() {
         <div className="font-poppins flex flex-col gap-y-28 py-28">
            
             <div className='flex items-center flex-col gap-y-10'>
-                <p className='font-bold text-6xl'>Testimonials</p>
-                 <p className='font-normal text-xl'>
+                <p className='font-bold text-white text-6xl'>Testimonials</p>
+                 <p className='font-normal text-center text-white text-xl'>
                  Lorem ipsum dolor sit amet consectetur. Tristique amet sed massa nibh lectus 
                  <br/>netus in. Aliquet donec morbi convallis pretium
                  </p>
