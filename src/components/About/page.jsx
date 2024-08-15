@@ -7,7 +7,7 @@ export default function About({ textColor = 'text-white', buttonColor = 'bg-cust
                 <div className="text-2xl lg:text-2xl font-semibold">Hi I am</div>
                 <div className="text-3xl lg:text-3xl font-semibold text-customOrange">Muhammad Umair</div>
                 <div className="font-semibold text-6xl lg:text-6xl">UI & UX</div>
-                <div className="font-semibold text-7xl lg:text-8xl pl-36 lg:pl-56">Designer</div>
+                <div className="font-semibold text-6xl lg:text-8xl pl-36 lg:pl-56">Designer</div>
 
                 <div className="mt-6 lg:mt-6 text-base lg:text-xl font-normal">
                     Lorem ipsum dolor sit amet consectetur. Tristique amet sed <br />
